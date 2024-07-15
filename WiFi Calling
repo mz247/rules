@@ -3,19 +3,19 @@
 # UP
 
 #AT&T:
-#DOMAIN-SUFFIX,epdg.epc.att.net
-#DOMAIN-SUFFIX,sentitlement2.mobile.att.net
-#DOMAIN-SUFFIX,vvm.mobile.att.net
-#DOMAIN-SUFFIX,mmsc.mobile.att.net
+DOMAIN-SUFFIX,epdg.epc.att.net
+DOMAIN-SUFFIX,sentitlement2.mobile.att.net
+DOMAIN-SUFFIX,vvm.mobile.att.net
+DOMAIN-SUFFIX,mmsc.mobile.att.net
 
 #Verizon:
-#DOMAIN-SUFFIX,wo.vzwwo.com 
-#DOMAIN-SUFFIX,sg.vzwfemto.com
+DOMAIN-SUFFIX,wo.vzwwo.com 
+DOMAIN-SUFFIX,sg.vzwfemto.com
 
 #T-Mobile:
-#DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-#DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-#DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
 
 IP-CIDR,109.239.140.0/24
 IP-CIDR,107.122.31.61/32
