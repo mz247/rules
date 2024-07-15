@@ -17,12 +17,11 @@ DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
 
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,107.122.31.61/32,no-resolve
-IP-CIDR,166.137.140.129/32,no-resolve
-IP-CIDR,166.216.0.0/16,no-resolve
-IP-CIDR,107.225.65.197/32,no-resolve
-IP-CIDR,141.207.0.0/16,no-resolve
-IP-CIDR,69.78.99.0/8,no-resolve
-IP-CIDR,69.78.99.0/8,no-resolve
-IP-CIDR,208.54.0.0/16,no-resolve
+IP-CIDR,109.239.140.0/24
+IP-CIDR,107.122.31.61/32
+IP-CIDR,166.137.140.129/32
+IP-CIDR,166.216.0.0/16
+IP-CIDR,107.225.65.197/32
+IP-CIDR,141.207.0.0/16
+IP-CIDR,69.78.99.0/8
+IP-CIDR,208.54.0.0/16
